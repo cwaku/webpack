@@ -5,6 +5,10 @@
     font-weight: 600;
     font-style: normal;
   }
+  
+body {
+    background-color: bisque;
+}
 
 .hello {
     color: red;
